@@ -1,0 +1,11 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C3, C5",0603,3,100nF,
+C2,0603,1,10nF,
+C4,0603,1,10μF,
+"D1, D2",0603,2,LED_Small,
+J1,JST_ZE_SM06B-ZESS-TB_1x06-1MP_P1.50mm_Horizontal,1,ZH_01x06,
+J2,USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal,1,TYPEC-304S-ACP16,
+P1,SOT-23-5_HandSoldering,1,RT9013-33GB,
+"R1, R2, R3, R4",0603,4,5.1k,
+"SW1, SW2",Button_Turtle_3x4x2_180,2,SW_SPST,
+U1,QFN-28-1EP_4x4mm_P0.4mm_EP2.4x2.4mm,1,CH549F,
